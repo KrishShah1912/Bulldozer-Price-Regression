@@ -21,6 +21,3 @@ This project tackles the challenge of forecasting bulldozer sale prices based on
 * Importance of domain-specific feature engineering (e.g., equipment age)
 * Using cross-validation to avoid overfitting
 * Building reproducible and modular ML workflows
-
-# 📬 Contact
-* Made with 💡 by Krish Shah 📧 LinkedIn | 🐙 GitHub
